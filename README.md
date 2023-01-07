@@ -1,7 +1,7 @@
 Заходить под моковыми данными:
-  user - 123
-  admin - 123
-  denis - 123
+  user - 123;
+  admin - 123;
+  denis - 123;
 
 # Getting Started with Create React App
 
