@@ -3,7 +3,7 @@
   admin - 123;
   denis - 123;
   
- Сайт - https://app.netlify.com/sites/jolly-faun-80f549/overview
+ Сайт - https://jolly-faun-80f549.netlify.app/
 
 # Getting Started with Create React App
 
