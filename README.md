@@ -1,3 +1,8 @@
+Заходить под моковыми данными:
+  user - 123
+  admin - 123
+  denis - 123
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
